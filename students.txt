@@ -6,3 +6,6 @@ GitHub_id: jamesap1
 
 Nicholas Van Domelen
 GitHub_id: vandomni
+
+Alexander Rash
+GitHub_id: AERash
